@@ -58,7 +58,7 @@ git clone https://github.com/gitthubuserr/KopiDanNyemil.git
 Berikut adalah tampilan aplikasi KopiDanNyemil:
 
 Halaman Utama
-!main
+![Home Screen](screenshots/home.png)
 
 Halaman SignUp
 !signup
