@@ -57,32 +57,51 @@ git clone https://github.com/gitthubuserr/KopiDanNyemil.git
 📸 Screenshots
 Berikut adalah tampilan aplikasi KopiDanNyemil:
 
+📱 Screenshots Aplikasi
 Halaman Utama
-![Home Screen](screenshots/home.png)
+<p align="center">
+<img src="screenshots/home.png" width="200">
+</p>
 
-Halaman SignUp
-!signup
+Halaman Sign Up
+<p align="center">
+<img src="screenshots/signup.png" width="200">
+</p>
 
 Halaman Register
-!register
+<p align="center">
+<img src="screenshots/register.png" width="200">
+</p>
 
 Halaman Login
-!login
+<p align="center">
+<img src="screenshots/login.png" width="200">
+</p>
 
 Halaman Home
-!home
+<p align="center">
+<img src="screenshots/home.png" width="200">
+</p>
 
 Halaman Produk
-!home
+<p align="center">
+<img src="screenshots/produk.png" width="200">
+</p>
 
 Halaman Order
-!order
+<p align="center">
+<img src="screenshots/order.png" width="200">
+</p>
 
 Halaman Confirmation
-!confirmation
+<p align="center">
+<img src="screenshots/confirmation.png" width="200">
+</p>
 
 Halaman Profile
-!profile
+<p align="center">
+<img src="screenshots/profile.png" width="200">
+</p>
 
 🎯 Tujuan Pengembangan
 Project ini dibuat sebagai sarana pembelajaran pengembangan aplikasi Android, khususnya dalam penggunaan Kotlin, XML Layout, RecyclerView, dan pengelolaan data produk.
